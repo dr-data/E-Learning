@@ -1,0 +1,3 @@
+rootProject.name = 'E_Learning_Client'
+
+include ':app'
