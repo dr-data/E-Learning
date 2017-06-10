@@ -8,10 +8,19 @@
   "dependencies": {
     "body-parser": "~1.16.0",
     "cookie-parser": "~1.4.3",
+    "cors": "^2.8.3",
     "debug": "~2.6.0",
+    "dotenv": "^4.0.0",
     "ejs": "~2.5.5",
     "express": "~4.14.1",
+    "jsonwebtoken": "^7.4.1",
     "morgan": "~1.7.0",
+    "password-hash": "^1.2.2",
+    "sequelize": "^4.0.0",
+    "sequelize-cli": "^2.7.0",
     "serve-favicon": "~2.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
